@@ -4,4 +4,5 @@
 > 按照路径法去查找对象某个值
 - just [查看](https://github.com/angus-c/just)
 > 一个只做一件事无依赖的JavaScript库
-> zx 可在Javascript或者TS中编写简单命令行脚本
+
+- zx 可在Javascript或者TS中编写简单命令行脚本
